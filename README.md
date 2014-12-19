@@ -1,5 +1,7 @@
 # Change By Us
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/watchcat/cbu-rotterdam?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Change by Us is an online marketplace for community projects that allows you to share ideas for making your city better, and to turn those ideas into projects that have real impact. 
 
 
